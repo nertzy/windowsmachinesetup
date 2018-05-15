@@ -69,7 +69,7 @@ try
     # chocolatey packages #
     #######################
 
-    choco install -y git
+    choco install -y git git-credential-manager-for-windows
     choco install -y notepadplusplus
     choco install -y 7zip
     choco install -y gow
